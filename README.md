@@ -1,7 +1,6 @@
 # 306-Serie
 
-
-Titel: Werkstattauftrag W07 Webin
+Werkstattauftrag W07 Webin
 ===========================================================================
 
 Inhaltsverzeichnis:
