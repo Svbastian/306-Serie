@@ -1,7 +1,7 @@
 # 306-Serie
 
 
-Titel: Werkstattauftrag Wxx + Name des WS-Auftrages (z.B. W05 Nettime NTP)
+Titel: Werkstattauftrag W07 Webin
 ===========================================================================
 
 Inhaltsverzeichnis:
